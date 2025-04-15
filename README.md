@@ -1,4 +1,4 @@
-# 📧 Email Template Manager
+# 📧 Sendeasy 
 
 A sleek and responsive React application for managing and previewing marketing email templates. Ideal for campaigns like product launches, discounts, newsletters, and customer greetings.
 
