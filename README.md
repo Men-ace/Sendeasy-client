@@ -29,7 +29,7 @@ A sleek and responsive React application for managing and previewing marketing e
 
 ---
 
-## 📦 Installation
+## 📦 Installation and contribution
 
 1. **Clone the repository**
 
@@ -44,7 +44,14 @@ npm install or yarn
 npm run dev or 
 yarn dev
 
-📦 Sendeasy-client
+---
+
+
+##📁 Project Structure
+bash
+Copy
+Edit
+📦 email-template-manager
 ├── 📁 assets/           # Static files and images
 ├── 📁 components/       # Reusable React components
 ├── 📁 pages/            # Individual page views (template previews)
@@ -54,7 +61,7 @@ yarn dev
 ├── main.jsx            # React entry point
 └── README.md           # Project documentation
 
+---
+
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
-
-
